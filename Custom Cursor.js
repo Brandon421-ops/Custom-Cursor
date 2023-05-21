@@ -13,7 +13,7 @@ document.body.appendChild(ring);
 
 var cursor1 = document.createElement('img');
 cursor1.id="cursor1";
-cursor1.src="https://raw.githubusercontent.com/dragon731012/DM-unbl0cker/main/static/img/cursor.png";
+cursor1.src="download.jpeg";
 cursor1.style.pointerEvents = "none";
 cursor1.style.userdrag="none";
 cursor1.style.userselect="none";
