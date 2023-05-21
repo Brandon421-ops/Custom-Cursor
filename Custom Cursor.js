@@ -1,7 +1,7 @@
 javascript:
 var ring = document.createElement('img');
 ring.id="ring";
-ring.src="https://raw.githubusercontent.com/dragon731012/DM-unbl0cker/main/static/img/ring.gif";
+ring.src="02beef54af1eb68390b7e2ffc5c1e667.gif";
 ring.style.pointerEvents = "none";
 ring.style.userdrag="none";
 ring.style.userselect="none";
